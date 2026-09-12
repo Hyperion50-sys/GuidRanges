@@ -17,6 +17,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Jakob           |          2268 |          2268 |
 | Jakob           |       601.382 |       601.384 |
 | Taludas (Noblesse oblige pop levels)           |       601.387 |       601.389 |
+| Robin           |       601.390 |       601.391 |
 | Fishboss        |       850.000 |       859.999 |
 | Spice it Up     |       900.000 |       930.000 |
 | Alucard         |       940.000 |       945.750 |
@@ -25,6 +26,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Combat Overhaul |     6.700.000 |     6.870.033 |
 | Spice it Up     |     8.855.000 |     8.857.999 |
 | WalGier         |     8.877.200 |     8.877.500 |
+| JohnSpoc        |     8.888.000 |     8.889.999 |
 | New Horizons    |    13.370.000 |    15.522.999 |
 | Barthi82        |    19.820.000 |    19.829.999 |
 | Spice it Up 2.8 |    99.334.100 |    99.334.199 |
@@ -32,6 +34,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | New Horizons    |   133.700.000 |   133.700.999 |
 | Zazuno          | 1.011.921.800 | 1.011.923.800 |
 | Asmodai         | 1.200.200.000 | 1.200.201.000 |
+| Vibood          | 1.337.460.000 | 1.337.470.000 |
 | adjagu          | 1.337.471.142 | 1.337.471.999 |
 | Harlekin        | 1.337.472.000 | 1.337.472.999 |
 | stotzem         | 1.337.473.000 | 1.337.473.999 |
@@ -45,6 +48,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Sabular/Sabunata| 1.360.000.000 | 1.360.099.999 |
 | Pawel Malecki   | 1.400.000.000 | 1.400.099.999 |
 | Fruti           | 1.400.100.000 | 1.400.100.199 |
+| exelsior6957    | 1.400.150.000 | 1.400.150.500 |
 | Xobra           | 1.400.200.000 | 1.400.200.999 |
 | Intetsch        | 1.400.201.000 | 1.400.201.999 |
 | Natoncy         | 1.404.000.000 | 1.404.009.999 |
@@ -53,8 +57,10 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | New Horizons    | 1.414.000.000 | 1.414.999.999 |
 | Chocolate Project | 1.415.000.000 | 1.415.009.999 |
 | Vaeloridas      | 1.416.000.000 | 1.419.999.999 |
+| agentquack      | 1.420.000.000 | 1.420.004.999 |
 | Spice it Up 3.0 | 1.440.133.000 | 1.440.137.199 |
 | Taubenangriff   | 1.440.138.000 | 1.440.138.999 |
+| -A-J-           | 1.450.150.000 | 1.450.170.000 |
 | Serp's Mods     | 1.500.000.000 | 1.500.010.000 |
 | Jakob           | 1.500.010.001 | 1.500.023.999 |
 | Rodagasto       | 1.500.024.000 | 1.500.024.999 |
@@ -77,6 +83,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | DanceInGold     | 1.644.000.000 | 1.650.000.000 |
 | Robin           | 1.651.000.000 | 1.651.005.000 |
 | Fam             | 1.660.010.000 | 1.660.019.999 |
+| Archipelago Randomizer (DarkListener) | 1.701.000.000 | 1701.099.999 |
 | sd808           | 1.738.000.000 | 1.738.099.999 |
 | Hier0nimus      | 1.742.000.000 | 1.742.999.999 |
 | AnnoX7          | 1.743.000.000 | 1.744.999.999 |
@@ -86,7 +93,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | SuppaiOnigiri   | 1.818.000.000 | 1.818.000.999 |
 | Hanthe2th       | 1.821.456.000 | 1.821.457.000 |
 | JohnSpoc        | 1.888.888.000 | 1.888.988.000 |
-| Satanoy         | 1.888.999.001 | 1.889.000.000 |
+| Satanoy         | 1.888.999.001 | 1.889.100.000 |
 | Grusin99        | 1.900.000.000 | 1.900.009.999 |
 | neltymind/Nils  | 1.900.010.000 | 1.900.019.999 |
 | zakraffy        | 1.900.050.000 | 1.900.051.000 |
@@ -102,6 +109,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | 0skater0        | 2.000.510.000 | 2.000.519.999 |
 | HadleyB         | 2.000.999.000 | 2.000.999.999 |
 | *Personal use*  | 2.001.000.000 | 2.001.009.999 |
+| Panther         | 2.001.200.000 | 2.001.229.999 |
 | Yunaicy         | 2.002.000.000 | 2.002.009.999 |
 | Yodel Kindergarten          | 2.023.000.000 | 2.025.999.999 |
 | Criss McCloud   | 2.026.500.000 | 2.026.500.999 |
@@ -134,11 +142,12 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | Evangeline      | 2.142.000.000 | 2.142.000.500 |
 | SacklGlopfa     | 2.143.000.000 | 2.143.005.000 |
 | fran-t96        | 2.143.500.000 | 2.143.505.000 |
-| Khobs           | 2.143.505.001 | 2.143.509.999 |
+| Khobs           | 2.143.505.001 | 2.143.559.999 |
 | Garthnait       | 2.145.000.001 | 2.145.009.999 |
 | Shounbourgh     | 2.145.010.000 | 2.145.010.999 |
 | arcalys         | 2.145.100.000 | 2.145.100.999 |
 | CaptainHurricane | 2.146.000.000 | 2.146.000.999 |
+| Hyperion50 | 2.146.001.000 | 2.146.002.000 |
 | reserved for special cases       | 2.147.480.000 | 2.147.483.599 |
 | Jakob           | 2.147.483.600 | 2.147.483.609 |
 | reserved for special cases       | 2.147.483.610 | 2.147.483.647 |

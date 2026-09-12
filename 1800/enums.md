@@ -86,12 +86,12 @@ Mod8 |
 Mod9 | Hier0nimus | Support Ships
 Mod10 | S1LV3R-p0tat0 / Hier0nimus | Torpedo Launcher
 Mod11 | S1LV3R-p0tat0 | Kamikaze Plane
-Mod12 | jje1000 | NW Tier 4 | 
-Mod13 | jje1000 | NW Tier 4 | 
-Mod14 | jje1000 | NW Tier 4 | 
+Mod12 | jje1000 | Edad de Oro |
+Mod13 | jje1000 | Edad de Oro |
+Mod14 | jje1000 | Edad de Oro |
 Mod15 | Tisogno | Maya Treasures |
-Mod16 |
-Mod17 |
+Mod16 | Hyperion50 | Doctrinal Bridge
+Mod17 | jje1000 | Edad de Oro |
 Mod18 |
 Mod19 |
 Mod20 |
@@ -133,13 +133,13 @@ Mod2 | Taubenangriff | New Horizons |
 Mod3 | Taubenangriff | New Horizons |
 Mod4 | Taubenangriff | New Horizons |
 Mod5 | Taludas | Noblesse Oblige |
-Mod6 | NWTier4 | New World Tier 4 |
+Mod6 | jje1000 | Edad de Oro |
 Mod7 | Drakkam | New Population Merchants |
 Mod8 | Natoncy | Back to the Orient |
 Mod9 | Natoncy | Back to the Orient |
 Mod10 | Serp | shared Nature Participant (helper) |
 Mod11 | Serp | shared Trader piratemode-attackable (helper) |
-Mod12 |
+Mod12 | Natoncy | Back to the Orient |
 Mod13 |
 Mod14 |
 Mod15 | Tisogno | Horai Tourism |
@@ -182,7 +182,7 @@ Mod13 |
 Mod14 |
 Mod15 | Tisogno | Horai Tourism
 Mod16 |
-Mod17 |
+Mod17 | Hyperion50 | Doctrinal Bridge
 Mod18 |
 Mod19 |
 Mod20 |
@@ -193,7 +193,7 @@ Enum | Author | Mod
 --- | --- | ---
 Mod1 | Natoncy | Noria - Back to the Orient |
 Mod2 | Drakkam | New Population Merchants |
-Mod3 |
+Mod3 | jje1000 | Edad de Oro |
 Mod4 |
 Mod5 |
 Mod6 |
@@ -248,7 +248,7 @@ Mod10 | Khobs | New World Palace
 Mod11 | Hier0nimus | Fort - Military Attention / Crafting Centre - White & Cold |
 Mod12 | Hier0nimus | Military Headquarters - Military Attention / Coastal Centre - White & Cold |
 Mod13 | Hier0nimus | Forest Centre - White & Cold |
-Mod14 |
+Mod14 | jje1000 | Edad de Oro |
 Mod15 | Tisogno | Maya Treasure
 Mod16 |
 Mod17 |
@@ -341,8 +341,8 @@ Stadium8 | nyk/pnski | MoreFestivalTypes_Nyk |
 Stadium9 | nyk/pnski | MoreFestivalTypes_Nyk |
 Stadium10 | nyk/pnski | MoreFestivalTypes_Nyk |
 Stadium12 | Taludas | Noblesse Oblige |
-Stadium13 | 
-Stadium14 | 
+Stadium13 | Natoncy | Return to the Orient |
+Stadium14 | Natoncy | Return to the Orient |
 Stadium15 | Tisogno | Mayan Treasures |
 
 
